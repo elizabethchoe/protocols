@@ -12,12 +12,14 @@
    so each vial contains 10 aliquots with each aliquot enough label for 2 runs.
 2. Resuspend 5 mg label in 305 μL anhydrous acetonitrile. Vortex and spin /
    shake down.
-3. Aliquot into 10 x 30 μL aliquots. Save leftovers (~5 μL).
-4. Speed-vac to dryness (1-2 hours) and store at -80°C in freezer box filled
+3. Aliquot into 10 x 30 μL aliquots. Pipette quickly to prevent degradation. Save leftovers (~5 μL).
+4. Speed-vac to dryness (1-2 hours), make sure caps are secure, and store at -80°C in freezer box filled
    with dessicant (below plate reader). Place box in freezer bag with dessicant
-   packs from kit.
+   packs from kit. 
 5. Mark lot # and date on sheet or -80°C freezer.
 6. Save vial labels and keep in TMT binder (Located in writing lab).
 
 Additional notes:
 - When labeling, always label at least two runs at a time to avoid freeze-thaw cycles
+- TMT degrades when exposed to moisture - work quickly when pipetting, make sure your gloves are dry, 
+and screw lids on tightly.
